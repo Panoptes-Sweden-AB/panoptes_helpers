@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Setuptools distribution folder
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE/editor metadata
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Test output
+.coverage
+.tox/
+pytest_cache/
+
